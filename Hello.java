@@ -1,7 +1,8 @@
 public class Hello {
     public static void main(String args[]){
+        int a = 5;
+        int b = 2;
 
-        float a = 5.0;
-        float b = 2.0;
+
     }
 }
