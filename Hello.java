@@ -1,8 +1,8 @@
 public class Hello {
     public static void main(String args[]){
-        int a = 5;
-        int b = 2;
-
-        System.out.println(a*b);
+        System.out.println("Hello \"World");
+        System.out.println("5 * 3");
+        System.out.println(5*3);
+        System.out.println((24*60) * 60);
     }
 }
